@@ -9,3 +9,8 @@
 <img width="1127" height="413" alt="Screenshot 2025-09-02 at 11 52 01 PM" src="https://github.com/user-attachments/assets/20360cde-1188-47b0-b851-c50e3d0b40cf" />
 <p align="justify"> I then proceed to use "x = np.random.random((5,5))" to produce a 5x5 array containing random sets of numbers. After printing it, I stored the mean formula in "a" and the standard deviation formula in "b". In the following code, I typed the normal formula, which is normal = (x-a)/b, and printed it again so that the normal value with respect to "x" will be shown.
 
+## 2. DIVISIBLE BY 3 PROBLEM:
+#### <p align="justify"> Create the following 10 x 10 ndarray which are the squares of the first 100 positive integers. From this ndarray, determine all the elements that are divisible by 3. Save the result as div_by_3.npy
+
+<img width="1127" height="441" alt="Screenshot 2025-09-02 at 11 53 07 PM" src="https://github.com/user-attachments/assets/2d910e03-6d87-4b8d-9ba2-77b5f9867bd9" />
+<p align="justify"> For the second problem, I input "k = np.arange(1,101)" to produce an array with values of 1-100. I stored the code in "i" to square the values of 1-100 and then reshaped it into a 10x10 array which I stored in "g". After that, I printed the values and stored the code responsible for making the values divisible by 3 in "t" and printed it again.
